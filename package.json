@@ -1,0 +1,33 @@
+{
+  "name": "trip-sorter",
+  "version": "1.0.0",
+  "description": "find the cheapest or fastest way to travel from a city to another",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fual/trip-sorter.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "akhlebaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fual/trip-sorter/issues"
+  },
+  "homepage": "https://github.com/fual/trip-sorter#readme",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^15.1.0"
+  }
+}

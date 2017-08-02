@@ -1,0 +1,4 @@
+.idea
+.git
+npm-debug.log
+node_modules
